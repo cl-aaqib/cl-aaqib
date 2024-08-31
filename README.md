@@ -1,5 +1,5 @@
 
-![Professional GIF](https://) <!-- Replace with a professional-themed GIF link -->
+<!--#!(https://) --> <!-- Replace with a professional-themed GIF link -->
 
 # 👋 Hi, I'm [Aaqib Shaikh]!
 
@@ -56,7 +56,7 @@ I'm a seasoned **Cloud Infrastructure & DevOps Engineer** with over 9 years of e
 
 ## 📫 Let's Connect!
 
-I'm eager to connect with professionals and explore new opportunities. Feel free to reach out on [LinkedIn](www.linkedin.com/in/aaqib-shaikh-0a249aa8).
+I'm eager to connect with professionals and explore new opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aaqib-shaikh-0a249aa8).
 
 ---
 
