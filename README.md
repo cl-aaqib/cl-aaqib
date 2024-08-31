@@ -60,8 +60,8 @@ I'm eager to connect with professionals and explore new opportunities. Feel free
 
 ---
 
-![Coding GIF](https://) <!-- Replace with another relevant GIF if desired -->
+ <!--![Coding GIF](https://)  Replace with another relevant GIF if desired -->
 
-!-- Replace with another relevant GIF if desired -->
+<!-- Replace with another relevant GIF if desired -->
 
 
