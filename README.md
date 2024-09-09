@@ -25,6 +25,7 @@ I'm a seasoned **Cloud Infrastructure & DevOps Engineer** with over 9 years of e
 
 ## 🏆 Certifications & Training
 
+- **Azure Security Engineer Associate  (AZ-500)**
 - **Azure Administrator Associate (AZ-104)**
 - **Microsoft Azure Architect Technologies (AZ-303)**
 - **Microsoft Certified Professional**
