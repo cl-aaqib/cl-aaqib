@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm [Aaqib Shaikh]!
 
-I'm a seasoned **Cloud Infrastructure & DevOps Engineer** with over 9 years of experience in automating, configuring, and deploying advanced cloud solutions for enterprise environments and data centers. My expertise includes **Azure Enterprise Scale Architecture**, **CI/CD pipelines**, and **Infrastructure as Code** using **Terraform**. I specialize in cloud migration, security enhancements, and cost optimization, ensuring efficient and secure operations.
+I'm a seasoned **Cloud Architect** with over 10 years of experience in automating, configuring, and deploying advanced cloud solutions for enterprise environments and data centers. My expertise includes Azure Enterprise Scale Architecture, CI/CD pipelines, and Infrastructure as Code using Terraform. I specialize in cloud migration, security enhancements, and cost optimization, ensuring efficient and secure operations.
 
 ## 🛠 Professional Summary
 
@@ -17,7 +17,7 @@ I'm a seasoned **Cloud Infrastructure & DevOps Engineer** with over 9 years of e
 
 ## 🌟 Key Skills
 
-- **Cloud Technology**: Microsoft Azure, Azure DevOps, Entra, ARM Templates, Migrate, Site Recovery, AKS, AWS
+- **Cloud Technology**: Microsoft Azure, Azure DevOps, Entra, ARM Templates, Azure Migrate, Azure Site Recovery, AKS, AWS
 - **Networking**: vWAN, Load Balancer, App Gateway, NSG, VPN, Firewall, VNet Peering, ExpressRoute
 - **DevOps & Automation**: CI/CD with Azure DevOps, GitHub, Terraform, PowerShell, Bash, Ansible, Docker, Kubernetes
 - **Server Management**: Active Directory, DNS, Windows Server, Linux
